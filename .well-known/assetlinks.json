@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.sanayei.qareeb",
+    "sha256_cert_fingerprints": ["BE:81:34:92:49:40:23:3D:62:B2:A2:38:C4:2F:81:D3:09:B4:BC:4E:51:93:89:5E:7E:6B:9B:58:70:5D:2A:BA"]
+  }
+}]
